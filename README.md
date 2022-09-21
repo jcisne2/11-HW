@@ -36,7 +36,7 @@ Application will allow user to be delete notes
 
 ![note taker](https://user-images.githubusercontent.com/108189023/191404160-1e7fc2f9-e2e2-4f47-ac73-3dd2ce6309e8.png)
 
-![filled out display](https://user-images.githubusercontent.com/108189023/191404215-67a27d15-857d-47f2-ba19-4f3aa03cb217.png)
+![note taker](https://user-images.githubusercontent.com/108189023/191404349-046f2919-00a9-4cdd-8bf3-0b824734e9a1.png)
 
 ![filled out display](https://user-images.githubusercontent.com/108189023/191404283-e94d4dd1-dbf9-41dc-aade-4370b16861b8.png)
 

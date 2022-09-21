@@ -16,6 +16,7 @@ create an application called Note Taker that can be used to write and save notes
 
 * [Installations](#dependencies)
 
+* [Technology used](#Technology used)
 
 * [Contributors](#contributors)
 

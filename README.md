@@ -28,9 +28,9 @@ create an application called Note Taker that can be used to write and save notes
 
 ## Usage
 
-Application will allow user to be able to add note's title and description
-Application will allow user to be able to save the notes and won't lose them even they refresh the page
-Application will allow user to be delete notes
+* Application will allow user to be able to add note's title and description
+* Application will allow user to be able to save the notes and won't lose them even they refresh the page
+* Application will allow user to be delete notes
 
 ## Images
 

@@ -7,12 +7,12 @@ https://note-taker-546853.herokuapp.com/notes
 ## Github URL 🌐
 https://github.com/jcisne2/11-HW
 
-## Description 📝
-
-create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
-
 
 ## Table of Contents 🗒
+
+* [Description](#Description)
+
+* [Usage](#Usage)
 
 * [Images](#images)
 
@@ -21,6 +21,18 @@ create an application called Note Taker that can be used to write and save notes
 * [Technology](#Technology)
 
 * [Contributors](#contributors)
+
+## Description 📝
+
+create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+
+## Usage
+
+Application will allow user to be able to add note's title and description
+Application will allow user to be able to save the notes and won't lose them even they refresh the page
+Application will allow user to be delete notes
+
+## Images
 
 
 

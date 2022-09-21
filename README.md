@@ -2,7 +2,7 @@
 
 ## Hiroku link
 
-https://note-taker-546853.herokuapp.com/notes
+https://note-taker-546853.herokuapp.com/
 
 ## Github URL 🌐
 https://github.com/jcisne2/11-HW

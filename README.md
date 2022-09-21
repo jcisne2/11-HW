@@ -29,6 +29,22 @@ To install dependencies, run these commands:
 npm i
 ```
 
+## Technology used
+
+Node.js
+
+NPM
+
+Express.js
+
+Inquirer.js
+
+uuid
+
+Bootstrap
+
+Google Fonts
+
 ## Contributors 😃
 
 Jcisne2
